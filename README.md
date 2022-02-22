@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 
 [whatsapp]: https://wa.me/966559298917
-[whatsapp]: https://t.me/binattia
+[telegram]: https://t.me/binattia
