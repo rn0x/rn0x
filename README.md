@@ -24,9 +24,7 @@ Here are some ideas to get you started:
 
 ### Connect With Me
 
-[<img align="center" alt="Ryan Almalki | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" />][whatsapp]
 [<img align="center" alt="Ryan Almalki | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" />][telegram]
 
 
-[whatsapp]: https://wa.me/966559298917
 [telegram]: https://t.me/binattia
