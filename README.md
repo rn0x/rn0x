@@ -18,6 +18,13 @@ Here are some ideas to get you started:
   <img align="center" src = "https://profile-counter.glitch.me/rn0x/count.svg" alt ="Loading..."> <br><br>
   <img align="center" src = "https://activity-graph.herokuapp.com/graph?username=rn0x"> <br><br>
   <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rn0x&theme=light&hide_langs_below=1"> <br><br>
-  <img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=rn0x&"> <br><br>
+  <img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=rn0x&"> <br><br><br><br>
   
 </p>
+
+[<img align="left" alt="Ryan Almalki | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" />][whatsapp]
+[<img align="left" alt="Ryan Almalki | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" />][telegram]
+
+
+[whatsapp]: https://wa.me/966559298917
+[whatsapp]: https://t.me/binattia
