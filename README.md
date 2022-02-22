@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23A4834D&lines=Hey+%F0%9F%91%8B%2C+I%60m+rn0x+....!;Nice+to+see+you+..."/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23A4834D&lines=Hey+%F0%9F%91%8B%2C+I%60m+rn0x+....!;Nice+to+see+you+..."/><br>
+  <img align="center" src = "https://profile-counter.glitch.me/rn0x/count.svg" alt ="Loading...">
 </p>
