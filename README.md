@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
+   Connect With Me <br><br>
+  <a href="https://t.me/binattia">
+     <img align="center" src = "https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="28px">
+  </a>
+</p> <br><br><br>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23A4834D&lines=Hey+%F0%9F%91%8B%2C+I%60m+rn0x+....!;Nice+to+see+you+..."/><br><br>
   <img align="center" src = "https://profile-counter.glitch.me/rn0x/count.svg" alt ="Loading..."> <br><br>
   <img align="center" src = "https://activity-graph.herokuapp.com/graph?username=rn0x"> <br><br>
@@ -21,10 +28,3 @@ Here are some ideas to get you started:
   <img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=rn0x&"> <br><br><br><br>
   
 </p>
-
-### Connect With Me
-
-[<img align="center" alt="Ryan Almalki | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" />][telegram]
-
-
-[telegram]: https://t.me/binattia
