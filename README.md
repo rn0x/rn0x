@@ -23,8 +23,5 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23A4834D&lines=Hey+%F0%9F%91%8B%2C+I%60m+rn0x+....!;Nice+to+see+you+..."/><br><br>
   <img align="center" src = "https://profile-counter.glitch.me/rn0x/count.svg" alt ="Loading..."> <br><br>
-  <img align="center" src = "https://activity-graph.herokuapp.com/graph?username=rn0x"> <br><br>
   <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rn0x&theme=light&hide_langs_below=1"> <br><br>
-  <img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=rn0x&"> <br><br><br><br>
-  
 </p>
