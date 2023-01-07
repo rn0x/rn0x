@@ -13,12 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<div align="center">
+   
+   <a href="https://rn0x.me">Website</a> <br> <br>
+   
+   
    Connect With Me <br><br>
   <a href="https://t.me/binattia">
      <img align="center" src = "https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="28px">
   </a>
-</p> <br><br><br>
+ 
+</div> <br><br><br>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23A4834D&lines=Hey+%F0%9F%91%8B%2C+I%60m+rn0x+....!;Nice+to+see+you+..."/><br><br>
