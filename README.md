@@ -3,7 +3,6 @@
 const info = {
     name: "ريان المالكي",
     from: "مكة المكرمة",
-    age: 27,
     email: "rn0x.me@gmail.com",
     website: "https://rn0x.me",
     telegram: "https://t.me/binattia"
