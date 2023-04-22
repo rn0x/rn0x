@@ -4,8 +4,7 @@ const info = {
     name: "ريان المالكي",
     from: "مكة المكرمة",
     email: "rn0x.me@gmail.com",
-    website: "https://rn0x.me",
-    telegram: "https://t.me/binattia"
+    website: "https://rn0x.me"
 }
 
 ```
