@@ -3,8 +3,7 @@
 const info = {
     name: "ريان المالكي",
     from: "مكة المكرمة",
-    email: "rn0x.me@gmail.com",
-    website: "https://rn0x.me"
+    email: "rn0x.me@gmail.com"
 }
 
 ```
