@@ -5,7 +5,6 @@ const info = {
     from: "مكة المكرمة",
     email: "rn0x.me@gmail.com",
     telegram:"https://t.me/f93ii",
-    whatsapp:"https://wa.me/966553556010?text=مرحبا"
 }
 
 ```
