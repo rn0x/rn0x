@@ -30,7 +30,3 @@ const info = {
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,git,github,vscode&theme=dark" />
 </p>
 
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
