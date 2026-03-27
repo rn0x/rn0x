@@ -9,10 +9,28 @@ const info = {
 }
 
 ```
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rn0x&theme=github_dark" />
+</p>
 
 <p align="center">
-  <img align="center" src = "https://profile-counter.glitch.me/rn0x/count.svg" alt ="Loading..."> <br><br>
-  <img align="center" src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rn0x&custom_title=اللغات_الأكثر_إستخداماً&theme=merko&hide_langs_below=1&layout=pie&hide=html">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rn0x&theme=dark" />
+</p>
+
+<p align="center">
+
+  <!-- 👁️‍🗨️ Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=rn0x&label=Profile%20Views&color=0e75b6&style=flat" />
+  
+  <br><br>
 
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,git,github,vscode&theme=dark" />
+</p>
+
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
