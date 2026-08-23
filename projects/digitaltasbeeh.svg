@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" role="img" aria-label="Digital Tasbeeh">
+  <rect width="800" height="450" fill="#0b0f12"/>
+  <rect x="0" y="0" width="800" height="44" fill="#11181d"/>
+  <circle cx="24" cy="22" r="6" fill="#ff5f56"/><circle cx="44" cy="22" r="6" fill="#ffbd2e"/><circle cx="64" cy="22" r="6" fill="#27c93f"/>
+  <text x="40" y="120" font-family="'IBM Plex Mono',ui-monospace,monospace" font-size="20" fill="#39ff14">rayan@i8x:~$</text>
+  <text x="40" y="160" font-family="'IBM Plex Mono',ui-monospace,monospace" font-size="34" font-weight="600" fill="#e7e7e7">digitaltasbeeh</text>
+  <text x="40" y="205" font-family="'IBM Plex Mono',ui-monospace,monospace" font-size="16" fill="#6b7a72">Cordova · Android</text>
+  <text x="40" y="250" font-family="'IBM Plex Mono',ui-monospace,monospace" font-size="14" fill="#6b7a72">tasbeeh app · public · live</text>
+  <text x="40" y="340" font-family="'IBM Plex Mono',ui-monospace,monospace" font-size="14" fill="#39ff14">&gt; preview asset</text>
+</svg>
